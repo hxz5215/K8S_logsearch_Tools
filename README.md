@@ -1,0 +1,3 @@
+# K8S_logsearch_Tools
+K8S日志查询工具
+这是LCB胡学政大神所著作的日志工具
