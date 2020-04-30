@@ -1,7 +1,7 @@
 # K8S_logsearch_Tools
 K8S日志查询工具
 
-i[K8S日志查询工具](https://github.com/hxz5215/K8S_logsearch_Tools/blob/master/k8s_log.png)
+i(https://github.com/hxz5215/K8S_logsearch_Tools/blob/master/k8s_logs20200430.jpg)
 
 基于python TK 编写的GUI工具，免费无毒。
 360好像会误报，可以关闭360再使用
